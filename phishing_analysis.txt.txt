@@ -1,0 +1,19 @@
+Phishing Email Analysis Report
+
+Phishing Indicators Identified:
+
+Spoofed Sender Address:
+   The sender email "security@paypaI.com"
+   is suspicious. The domain mimics paypal.com.
+2. Urgent and Threatening Language:
+   The email states account will be suspended within 24 hours.
+3. Suspicious Link:
+   The link redirects to non-official PayPal domain.
+4. Generic Greeting:
+   Uses "Dear Customer" instead of user's name.
+5. Request for Sensitive Information
+6. Requests account verification.
+
+Conclusion:
+This email shows multiple phishing characteristics and is malicious.
+
