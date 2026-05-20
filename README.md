@@ -1,4 +1,4 @@
-# Task 2: Phishing Email Analysis
+#  Phishing Email Analysis
 
 ## Objective
 To analyze a suspicious email and identify phishing characteristics.
